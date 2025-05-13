@@ -34,10 +34,4 @@ print("Swapped values are:",x,y)
 ![image](https://github.com/user-attachments/assets/087a36c0-5788-4c88-ae5d-9f9845eb57c5)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
-
-## RESULT:
-Thus the swapping of two values are successfully executed
-
-
-
+Thus the swapping of two values are successfully executed.
